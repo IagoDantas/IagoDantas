@@ -1,7 +1,7 @@
 ## Hi there I'm Iago Dantas 👋
 
 ## 💫 About Me:
-🔭 I am currently working as a Web Developer<br>🌱 I’m currently learning React, NodeJS<br>📫 How to reach me iagodantas.8@gmail.com 
+🔭 I am currently working as a Web Developer<br>🌱 I’m currently learning React, NodeJS<br>📫 How to reach me: iagodantas.8@gmail.com 
 
 ~~~javascript
 function dev(name, age, work) {
