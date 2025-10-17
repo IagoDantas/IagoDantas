@@ -1,7 +1,7 @@
 ## Hi there! I'm Iago Dantas 👋
 
 ## 💫 About Me:
-🔭 I am currently a Full Stack Developer<br>🌱 Learning about React, NodeJS, TypeScript and NextJS<br>📚 Currently reading Clean Code<br>📫 How to reach me: iagodantas.8@gmail.com 
+🔭 I am currently a Full Stack Developer<br>🌱 Learning about React, NodeJS, TypeScript and NextJS<br>📚 Currently reading Clean Code<br>📫 How to reach me: contact@iagodantas.dev 
 
 ~~~javascript
 function dev(name, age, work) {
