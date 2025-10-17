@@ -10,7 +10,7 @@ function dev(name, age, work) {
         this.work = work;
 }
 
-let iagoDantas = new dev('Iago Dantas', 20, 'Full Stack Developer');
+let iagoDantas = new dev('Iago Dantas', 21, 'Full Stack Developer');
 console.log(iagoDantas);
 ~~~
 
